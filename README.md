@@ -18,7 +18,7 @@ Implementar los siguientes algoritmos en un lenguaje de programación de su elec
 
     a)	Árbol de mínima expansión (MST: Minimal Expansion Tree)
 
-    b)	Algoritmo de la ruta más corta (SPM) -> Kruskal
+    b)	Algoritmo de la ruta más corta (SPM) -> Kruskal Floyd
 
     c)	Algoritmo de Flujo Máximo
 
